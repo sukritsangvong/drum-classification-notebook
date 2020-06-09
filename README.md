@@ -2,7 +2,7 @@
 
 ### Note:
     Drum_Dataset = audio data used in the project
-    displayAudio = audio data used in the Notebook
+    displayAudio = modified audio data used in the Notebook
     README.md	
     drumCNN.html = the project in HTML form 
     drumCNN.ipynb = the project in a Notebook form
