@@ -35,7 +35,7 @@
     something. With that thought, I set my goal to build a model that would
     classify each part of the drums(kick, snare, hi-hats, tom, and cymbal).
     
-Goal:
+### Goal:
 
     The intention of this project is not to find the best model for this problem,
     but rather to set a goal to stick to one model and learn everything related to
