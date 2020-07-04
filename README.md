@@ -5,7 +5,7 @@
     displayAudio = modified audio data used in the Notebook
     README.md	
     drumCNN.html = the project in HTML form 
-    drumCNN.ipynb = the project in a Notebook form
+    **drumCNN.ipynb = the project in a Notebook form**
     drum_data.json = the mffc values used by drumCNN
     duration.csv = data used to graph audio files' durations
     loadData.py = python files used to load Drum_Dataset and create drum_data.json
