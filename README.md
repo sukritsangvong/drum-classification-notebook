@@ -5,7 +5,7 @@
     displayAudio = modified audio data used in the Notebook
     README.md	
     drumCNN.html = the project in HTML form 
-    drumCNN.ipynb = the project in a Notebook form
+    **drumCNN.ipynb = the project in a Notebook form
     drum_data.json = the mffc values used by drumCNN
     duration.csv = data used to graph audio files' durations
     loadData.py = python files used to load Drum_Dataset and create drum_data.json
@@ -35,7 +35,7 @@
     something. With that thought, I set my goal to build a model that would
     classify each part of the drums(kick, snare, hi-hats, tom, and cymbal).
     
-Goal:
+### Goal:
 
     The intention of this project is not to find the best model for this problem,
     but rather to set a goal to stick to one model and learn everything related to
